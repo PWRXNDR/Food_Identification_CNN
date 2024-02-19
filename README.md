@@ -1,5 +1,5 @@
 # Food_Identification_CNN
-Here I am striving to experiment with the 'Data Vision' dataset - https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
+Here I am striving to experiment with the dataset - https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 which contains different pictures of food.
 
 I am using this dataset to tackle my knowledge of PyTorch and Convolutional Neural Networks (CNN).
