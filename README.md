@@ -1,5 +1,5 @@
 # Food_Identification_CNN
-Check out the related post on Medium - 
+Check out the related post on [Medium](https://medium.com/@pwrxndr/pytorch-transfer-learning-how-to-choose-the-right-model-ed4ad94c8b02)
 
 Here I am striving to experiment with the dataset - https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 which contains different pictures of food.
