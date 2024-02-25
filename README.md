@@ -2,7 +2,7 @@
 Check out the related post on [Medium](https://medium.com/@pwrxndr/pytorch-transfer-learning-how-to-choose-the-right-model-ed4ad94c8b02)
 
 Here I am striving to experiment with the [dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
-which contains different pictures of food.
+which contains more than 100,000 different pictures of food.
 
 I am using this dataset to tackle the capabilities of PyTorch and Convolutional Neural Networks (CNN).
 
